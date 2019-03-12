@@ -25,3 +25,10 @@ C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTest
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.dll
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.xml
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\obj\Debug\DipTestingExercises.csprojAssemblyReference.cache
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\obj\Debug\DipTestingExercises.csproj.CoreCompileInputs.cache
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+D:\VolatileData\Profiles\TEMP.SWIN.000\source\repos\DipUnitTestTask\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
